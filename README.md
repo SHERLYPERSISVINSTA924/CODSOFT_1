@@ -1,14 +1,14 @@
 # CODSOFT_1
 
-Overview
+Overview:
 This repository contains a simple chatbot implemented in Python. The chatbot is designed to respond to user inputs based on predefined rules using if-else statements. It serves as a basic demonstration of natural language processing and conversation flow.
 
-Features
+Features:
 Responds to user inputs based on predefined rules
 Provides appropriate responses using if-else statements
 Handles basic conversation flow
 Can be extended with additional rules and responses
-Usage
+Usage:
 To run the chatbot, follow these steps:
 
 Ensure you have Python installed on your system.
@@ -35,11 +35,11 @@ Bot: Why don't scientists trust atoms? Because they make up everything!
 User: Bye
 Bot: Goodbye! Have a great day!
 
-Customization
+Customization:
 You can customize the chatbot by modifying the predefined rules and responses in the chatbot_response() function in the chatbot.py file. Add or edit rules to tailor the chatbot's behavior to your specific requirements.
 
-Credits
+Credits:
 This chatbot was created by SHERLY PERSIS VINSTA.S as a learning exercise in natural language processing.
 
-License
+License:
 This project is licensed under the MIT License.
